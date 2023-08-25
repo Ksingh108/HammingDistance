@@ -1,3 +1,5 @@
+[![Build and run tests](https://github.com/Ksingh108/HammingDistance/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Ksingh108/HammingDistance/actions/workflows/dotnet.yml)
+
 # Hamming distance is the number of characters that differ between two strings.
 
 ## To illustrate:
